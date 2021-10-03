@@ -1,7 +1,6 @@
 # Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Hello, this is Durgesh Mahajan :-) <img align="right" width="200px" src="Img/d.gif">
------------------------
 ### A brief intro about me...
 A curious Student striving for Knowledge and Excellence | Want to become one of the best professionalist of this IT World 📡 | And of course a best version of Myself 💙 | My Dreams are bigger than My Distractions
 Developing IT Engineer @ DYPCOE, Akurdi, Pune
