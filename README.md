@@ -21,20 +21,17 @@ I just love Exploring the Technology and Computer/IT World.
 * Exploring IT/CS World 💻
 
 ## My Interests :
-* **Cyber Security**
-* Coding/Programming
-* Android Development
-* UI/UX Designing
-* Web Development
-* 3D Modelling
-* Graphic Designing
+* **Cyber Security** 💻
+* Coding/Programming <>
+* UI/UX Designing 💡
+* Web Development 🌐
+* Graphic Designing ✏✒🖌🖍📏📐📌
 
 ## My Skills :
 <img align="left"  width="25px" src="Img/html.png" >
 <img align="left"  width="30px" src="Img/python.png">
 <img align="left"  width="30px" src="Img/cpp.png">
 <img align="left"  width="30px" src="Img/java.png">
-<img align="left"  width="30px" src="Img/android.png">
 
 <br>
 <br></br>
