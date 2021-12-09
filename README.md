@@ -10,8 +10,8 @@ In deep Love with Computers and Technology 🖥💻💡📂📆📌
 I just love Exploring the Technology and Computer/IT World.
 </br>
 <br></br>
-<img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=radical"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&layout=compact">
 <br></br>
 
 ## My Hobbies :
