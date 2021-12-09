@@ -10,6 +10,8 @@ In deep Love with Computers and Technology 🖥💻💡📂📆📌
 I just love Exploring the Technology and Computer/IT World.
 </br>
 <br></br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgeshm01722)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
 
 ## My Hobbies :
 * Sketching 🎨
