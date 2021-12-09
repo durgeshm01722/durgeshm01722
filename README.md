@@ -38,7 +38,7 @@ I just love Exploring the Technology and Computer/IT World.
 <br></br>
 
 ## Connect with me :
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge>](https://www.linkedin.com/in/durgesh-mahajan-99bab0212/)
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge">](https://www.linkedin.com/in/durgesh-mahajan-99bab0212/)
 * Linkedin - <https://www.linkedin.com/in/durgesh-mahajan-99bab0212/>
 * Github - <https://github.com/durgeshm01722>
 * Gmail - durgeshmahajan1722@gmail.com
