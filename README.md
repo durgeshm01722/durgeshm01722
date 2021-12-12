@@ -40,7 +40,7 @@ I just love Exploring the Technology and Computer/IT World.
 
 ## Connect with me :
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge">](https://www.linkedin.com/in/durgesh-mahajan-99bab0212/)
-[<img src="https://img.shields.io/badge/-Github-grey?style=for-the-badge">](https://github.com/durgeshm01722)
+[<img src="https://img.shields.io/badge/-Github-black?style=for-the-badge">](https://github.com/durgeshm01722)
 <img src="https://img.shields.io/badge/durgeshmahajan1722%40gmail.com-Gmail-red?style=for-the-badge">
 [<img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge">](https://www.instagram.com/durgeshm01722/)
 [<img src="https://img.shields.io/badge/-Facebook-informational?style=for-the-badge">](https://www.facebook.com/durgeshmahajan1722/)
