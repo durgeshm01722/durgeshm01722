@@ -2,18 +2,23 @@
 
 ## Hello, this is Durgesh Mahajan :-) <img align="right" width="200px" src="Img/d.gif">
 ### A brief intro about me...
-A curious Student striving for Knowledge and Excellence | Want to become one of the best professionalist of this IT World 📡 | And of course a best version of Myself 💙 | My Dreams are bigger than My Distractions | 
-Developing IT Engineer @ DYPCOE, Akurdi, Pune | 
-In deep Love with Computers and Technology 🖥💻💡📂📆📌
+Hello, Myself Durgesh Mahajan. I am a second-year student pursuing IT engineering from D. Y. Patil College of Engineering, Akurdi, Pune.
 
-\
+I am a Cyber Security Enthusiast. But, Software Development and UI/UX Designing also fascinate me! I love to play with programming and dive deep into its concepts. I love Graphic Designing too... It's one of the most creative fields.
+
+Apart from my Professional Life, I love Sketching and Listening to Music. I am a HUGE HUGE HUGE fan of Arijit ❤️❤️❤️ I just love listening to his soulful voice and I never get bored with his songs 💙
+
 I just love Exploring the Technology and Computer/IT World.
-</br>
-<br></br>
+<br><br><br>
+### Do give a visit to my Portfolio 🔗 - https://durgeshm01722-portfolio.netlify.app/ 
+<img src="https://img.shields.io/website-up-down-green-red/http/durgeshm01722-portfolio.netlify.app/.svg">
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&layout=compact&show_icons=true&theme=radical"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722&show_owner=true&show_icons=true&theme=radical">
-<br></br>
+<br>
+<img src="https://img.shields.io/github/followers/durgeshm01722.svg?style=social&label=Follow&maxAge=2592000">
+<br>
 
 ## My Hobbies :
 * Sketching 🎨
@@ -21,6 +26,7 @@ I just love Exploring the Technology and Computer/IT World.
 * Reading Informative Books 📕📗📘📙📒
 * Music 🎶🎵🎼🎧💙
 * Exploring IT/CS World 💻
+<br>
 
 ## My Interests :
 * **Cyber Security** 💻
@@ -28,12 +34,9 @@ I just love Exploring the Technology and Computer/IT World.
 * UI/UX Designing 💡
 * Web Development 🌐
 * Graphic Designing ✏✒🖌🖍📏📐📌
+<br>
 
 ## My Skills :
-<!-- <img align="left"  width="25px" src="Img/html.png" >
-<img align="left"  width="30px" src="Img/python.png">
-<img align="left"  width="30px" src="Img/cpp.png">
-<img align="left"  width="30px" src="Img/java.png"> -->
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
