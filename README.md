@@ -57,7 +57,7 @@ I just love Exploring the Technology and Computer/IT World.
 
 ## Connect with me :
 <p align="center">
-<a href="https://www.linkedin.com/in/durgesh-mahajan-99bab0212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/durgesh-mahajan-99bab0212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/durgeshm01722"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:durgeshmahajan1722@gmail.com"><img src="https://img.shields.io/badge/durgeshmahajan1722%40gmail.com-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/durgeshm01722/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
