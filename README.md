@@ -18,7 +18,7 @@ I just love Exploring the Technology and Computer/IT World.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=tokyonight"><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&layout=compact&show_icons=true&theme=radical"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&show_icons=true&theme=radical"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722&show_owner=true&show_icons=true&theme=radical"><br><br>
 <img src="https://img.shields.io/github/followers/durgeshm01722.svg?style=social&label=Follow&maxAge=2592000"><br>
 </p>
