@@ -1,6 +1,11 @@
 # Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Hello, this is Durgesh Mahajan :-) <img align="right" width="200px" src="Img/d.gif">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%230D60FF&width=800&size=40&center=true&vCenter=true&lines=Hello%2C+I+am+Durgesh;Welcome+to+my+github+profile">
+</p>
+
+<img align="right" width= "200px" src="Img/d.gif">
+
 ### A brief intro about me...
 Hello, Myself Durgesh Mahajan. I am a second-year student pursuing IT engineering from D. Y. Patil College of Engineering, Akurdi, Pune.
 
@@ -17,10 +22,20 @@ I just love Exploring the Technology and Computer/IT World.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=tokyonight"><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&show_icons=true&theme=radical"><br><br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722&show_owner=true&show_icons=true&theme=radical"><br><br>
-<img src="https://img.shields.io/github/followers/durgeshm01722.svg?style=social&label=Follow&maxAge=2592000"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=tokyonight&hide_border=true"><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshm01722&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&show_icons=true&theme=radical&layout=compact&langs_count=15&hide_border=true"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722&show_owner=true&show_icons=true&theme=radical&hide_border=true"><br><br>
+<!-- <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722&theme=radical&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=durgeshm01722&theme=github&hide_border=true&bg_color=000149&line=008AEC"><br><br>
+</p>
+
+<p align="center">
+<img src="https://custom-icon-badges.herokuapp.com/github/followers/durgeshm01722?logo=github&style=social">
+<img src="https://custom-icon-badges.herokuapp.com/github/stars/durgeshm01722?logo=star&style=social&logoColor=black">
+<img src="https://komarev.com/ghpvc/?username=durgeshm01722">
+<!-- <img src="https://img.shields.io/github/last-commit/google/skia.svg?style=flat&logo=history&logoColor=white">
+<img src="https://custom-icon-badges.herokuapp.com/github/last-commit/custom-icon-badges/durgesh01722?logo=history&logoColor=white"><br> -->
 </p>
 
 ## My Hobbies :
