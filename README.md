@@ -24,7 +24,7 @@ I just love Exploring the Technology and Computer/IT World.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=tokyonight&hide_border=true"><br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshm01722&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&show_icons=true&theme=radical&layout=compact&langs_count=15&hide_border=true"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722&show_owner=true&show_icons=true&theme=radical&hide_border=true"><br><br>
 <!-- <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722&theme=radical&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"> -->
 <img src="https://activity-graph.herokuapp.com/graph?username=durgeshm01722&theme=github&hide_border=true&bg_color=000149&line=008AEC"><br><br>
