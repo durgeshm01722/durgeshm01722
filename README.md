@@ -65,6 +65,9 @@ I just love Exploring the Technology and Computer/IT World.
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-Markdown?style=for-the-badge&logo=markdown&logoColor=white&color=blue">
+<img src="https://img.shields.io/badge/Adobe%20XD-Markdown?style=for-the-badge&logo=adobexd&logoColor=white&color=8a0085">
 </p>
 
 <br>
