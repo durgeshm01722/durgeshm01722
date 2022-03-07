@@ -69,6 +69,7 @@ I just love Exploring the Technology and Computer/IT World.
 <img src="https://img.shields.io/badge/Adobe%20XD-8a0085?style=for-the-badge&logo=adobexd&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
 <br>
