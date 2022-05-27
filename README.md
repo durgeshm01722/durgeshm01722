@@ -18,7 +18,8 @@ I just love Exploring the Technology and Computer/IT World.
 ### Do give a visit to my Portfolio 🔗 - https://durgeshm01722-portfolio.netlify.app/
 <p align="center">
 <img src="https://img.shields.io/website-up-down-green-red/http/durgeshm01722-portfolio.netlify.app/.svg"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> 
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"><br><br>
+<!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">-->
+<br><br>
 </p>
 
 <p align="center">
