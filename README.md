@@ -1,10 +1,10 @@
-# Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%230D60FF&width=800&size=40&center=true&vCenter=true&lines=Hello%2C+I+am+Durgesh;Welcome+to+my+github+profile">
 </p>
 
-<img align="right" width= "200px" src="Img/d.gif">
+<img align="right"  height="200px" src="Img/d.gif">
 
 ### A brief intro about me...
 Hello, Myself Durgesh Mahajan. I am a second-year student pursuing IT engineering from D. Y. Patil College of Engineering, Akurdi, Pune.
