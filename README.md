@@ -12,8 +12,7 @@ Hello, Myself Durgesh Mahajan. I am a third-year student pursuing IT engineering
 I am a Full Stack (MERN) Developer. I also love doing some UI/UX stuff. I am also interested in Cyber Security. In my free time, I love writing articles and creating tech-related content.
 
 Apart from my Professional Life, I love Sketching and Listening to Music. I also love to click Pics, especially of Nature.
-
-<br><br><br>
+<br><br>
 ### Do give a visit to my Portfolio 🔗 - https://durgeshm01722-portfolio.netlify.app/
 <p align="center">
 <img src="https://img.shields.io/website-up-down-green-red/http/durgeshm01722-portfolio.netlify.app/.svg"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> 
