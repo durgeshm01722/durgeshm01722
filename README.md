@@ -7,13 +7,12 @@
 <img align="right"  height="200px" src="Img/d.gif">
 
 ### A brief intro about me...
-Hello, Myself Durgesh Mahajan. I am a second-year student pursuing IT engineering from D. Y. Patil College of Engineering, Akurdi, Pune.
+Hello, Myself Durgesh Mahajan. I am a third-year student pursuing IT engineering from D. Y. Patil College of Engineering, Akurdi, Pune.
 
-I am a Cyber Security Enthusiast. But, Software Development and UI/UX Designing also fascinate me! I love to play with programming and dive deep into its concepts. I love Graphic Designing too... It's one of the most creative fields.
+I am a Full Stack (MERN) Developer. I also love doing some UI/UX stuff. I am also interested in Cyber Security. In my free time, I love writing articles and creating tech-related content.
 
-Apart from my Professional Life, I love Sketching and Listening to Music. I am a HUGE HUGE HUGE fan of Arijit ❤️❤️❤️ I just love listening to his soulful voice and I never get bored with his songs 💙
+Apart from my Professional Life, I love Sketching and Listening to Music. I also love to click Pics, especially of Nature.
 
-I just love Exploring the Technology and Computer/IT World.
 <br><br><br>
 ### Do give a visit to my Portfolio 🔗 - https://durgeshm01722-portfolio.netlify.app/
 <p align="center">
