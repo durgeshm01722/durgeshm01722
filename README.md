@@ -29,6 +29,8 @@ Apart from my Professional Life, I love Sketching and Listening to Music. I also
 <img src="https://activity-graph.herokuapp.com/graph?username=durgeshm01722&theme=github&hide_border=true&bg_color=000149&line=008AEC"><br><br>
 </p>
 
+[![@durgeshm01722's Holopin board](https://holopin.me/durgeshm01722)](https://holopin.io/@durgeshm01722)
+
 <p align="center">
 <img src="https://custom-icon-badges.herokuapp.com/github/followers/durgeshm01722?logo=github&style=social">
 <img src="https://custom-icon-badges.herokuapp.com/github/stars/durgeshm01722?logo=star&style=social&logoColor=black">
