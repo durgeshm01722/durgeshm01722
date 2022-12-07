@@ -15,7 +15,7 @@ Apart from my Professional Life, I love Sketching and Listening to Music. I also
 <br><br>
 ### Do give a visit to my Portfolio 🔗 - https://durgeshm01722-portfolio.netlify.app/
 <p align="center">
-<img src="https://img.shields.io/website-up-down-green-red/http/durgeshm01722-portfolio.netlify.app/.svg"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> 
+<img src="https://img.shields.io/website-up-down-green-red/http/durgeshm01722-portfolio.netlify.app/.svg"> <img src="https://img.shields.io/badge/Maintained%3F-no-red.svg"> 
 <!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">-->
 <br><br>
 </p>
@@ -24,8 +24,6 @@ Apart from my Professional Life, I love Sketching and Listening to Music. I also
 <img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=tokyonight&hide_border=true"><br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshm01722&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true"><br><br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722&show_owner=true&show_icons=true&theme=radical&hide_border=true"><br><br>
-<!-- <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=durgeshm01722&repo=durgeshm01722&theme=radical&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"> -->
 <img src="https://activity-graph.herokuapp.com/graph?username=durgeshm01722&theme=github&hide_border=true&bg_color=000149&line=008AEC"><br><br>
 </p>
 
