@@ -40,19 +40,15 @@ Apart from my Professional Life, I love Sketching and Listening to Music. I also
 </p>
 
 ## My Hobbies :
-* Sketching 🎨
-* Travelling 🚕🚗🚍✈
-* Reading Informative Books 📕📗📘📙📒
-* Music 🎶🎵🎼🎧💙
-* Exploring IT/CS World 💻
+* Photography
+* Sketching
+* Travelling
 <br>
 
 ## My Interests :
-* **Cyber Security** 💻
-* Coding/Programming <>
-* UI/UX Designing 💡
-* Web Development 🌐
-* Graphic Designing ✏✒🖌🖍📏📐📌
+* Cyber Security
+* Web Development
+* UI/UX
 <br>
 
 ## My Skills :
