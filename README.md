@@ -37,6 +37,8 @@ Apart from my Professional Life, I love Sketching and Listening to Music. I also
 <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/custom-icon-badges/durgesh01722?logo=history&logoColor=white"><br> -->
 </p>
 
+![Snake animation](https://github.com/durgeshm01722/durgeshm01722/blob/output/github-contribution-grid-snake.svg)
+
 ## My Hobbies :
 * Photography
 * Sketching
