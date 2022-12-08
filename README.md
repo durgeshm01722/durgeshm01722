@@ -24,7 +24,7 @@ Apart from my Professional Life, I love Sketching and Listening to Music. I also
 <img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=tokyonight&hide_border=true"><br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshm01722&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true"><br><br>
-<img src="https://activity-graph.herokuapp.com/graph?username=durgeshm01722&theme=github&hide_border=true&bg_color=000149&line=008AEC"><br><br>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=durgeshm01722&theme=github&hide_border=true&bg_color=000149&line=008AEC"><br><br> -->
 </p>
 
 [![@durgeshm01722's Holopin board](https://holopin.me/durgeshm01722)](https://holopin.io/@durgeshm01722)
@@ -37,7 +37,7 @@ Apart from my Professional Life, I love Sketching and Listening to Music. I also
 <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/custom-icon-badges/durgesh01722?logo=history&logoColor=white"><br> -->
 </p>
 
-![Snake animation](https://github.com/durgeshm01722/durgeshm01722/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/durgeshm01722/durgeshm01722/blob/output/github-contribution-grid-snake.svg) -->
 
 ## My Hobbies :
 * Photography
