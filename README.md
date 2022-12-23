@@ -9,9 +9,9 @@
 ### A brief intro about me...
 Hello, Myself Durgesh Mahajan. I am a third-year student pursuing IT engineering from D. Y. Patil College of Engineering, Akurdi, Pune.
 
-I am a Full Stack (MERN) Developer. I also love doing some UI/UX stuff. I am also interested in Cyber Security. In my free time, I love writing articles and creating tech-related content.
+I am a Full Stack Web and Mobile Developer. I love designing attractive, aesthetic, and user-friendly frontends for web and mobile applications. I also love exploring Cyber Security. In my free time, you can find me writing articles and creating tech-related content.
 
-Apart from my Professional Life, I love Sketching and Listening to Music. I also love to click Pics, especially of Nature.
+Apart from my Professional Life, I love clicking eye-catching Pics, especially of Nature. I also love Sketching and Listening to Music.
 <br><br>
 ### Do give a visit to my Portfolio 🔗 - https://durgeshm01722-portfolio.netlify.app/
 <p align="center">
