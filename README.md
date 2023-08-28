@@ -1,95 +1,102 @@
-# Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=007EDA&center=true&vCenter=true&width=700&lines=Hello%2C+this+is+Durgesh;Welcome+to+my+Github+profile">
-</p>
+###
 
-<img align="right"  height="200px" src="Img/d.gif">
+<div align="center">
+  <a href="https://www.linkedin.com/in/durgesh-mahajan-99bab0212" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://dev.to/durgeshm01722" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+  <a href="mailto:durgeshmahajan1722@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=durgeshmahajan1722@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/durgeshm01722" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@durgeshmahajan1722" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/16060342/durgesh-mahajan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://slack-xy57644.slack.com/team/U04TJB3N9H8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  </a>
+</div>
 
-### A brief intro about me...
-Hello, Myself Durgesh Mahajan. I am a third-year student pursuing IT engineering from D. Y. Patil College of Engineering, Akurdi, Pune.
+###
 
-I am a Full Stack Web and Mobile Developer. I love designing attractive, aesthetic, and user-friendly frontends for web and mobile applications. I also love exploring Cyber Security. In my free time, you can find me writing articles and creating tech-related content.
+<div align="center">
+  <img src="https://custom-icon-badges.herokuapp.com/github/followers/durgeshm01722?logo=github&style=social">
+  <img src="https://custom-icon-badges.herokuapp.com/github/stars/durgeshm01722?logo=star&style=social&logoColor=black">
+  <img src="https://komarev.com/ghpvc/?username=durgeshm01722">
+</div>
+
+###
+ 
+<div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=50 style="margin-right: 20px"/> Hey there <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=50 style="margin-left: 20px"/>
+</div>
+
+###
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+
+### 👩‍💻 A brief intro about me...
+
+I am a Full-stack Web and Mobile Developer. I love developing useful, functional and user-friendly applications for web and mobile with attractive and aesthetic user-interfaces. I also love exploring Cyber Security. In my free time, you can find me writing articles and creating tech-related content.
 
 Apart from my Professional Life, I love clicking eye-catching Pics, especially of Nature. I also love Sketching and Listening to Music.
-<br><br>
-### Do give a visit to my Portfolio 🔗 - https://durgeshm01722-portfolio.netlify.app/
+<br>
+
+<br>- 🔭 I’m currently a final-year engineering student <br>- 📚 I'm currently learning DSA and Spring (Java) 🍃<br>- ⚡ In my free time I build amazing projects</p>
+
+###
+
+## 🔧 Language and tools :
+
+###
 <p align="center">
-<img src="https://img.shields.io/website-up-down-green-red/http/durgeshm01722-portfolio.netlify.app/.svg"> <img src="https://img.shields.io/badge/Maintained%3F-no-red.svg"> 
-<!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">-->
-<br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,qt,cpp,mysql,git,figma,react,mui,androidstudio,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,postgresql,tailwind,next,aws,docker,jenkins,linux" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&show_icons=true&theme=tokyonight&hide_border=true"><br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshm01722&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshm01722&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true"><br><br>
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=durgeshm01722&theme=github&hide_border=true&bg_color=000149&line=008AEC"><br><br> -->
-</p>
+###
 
-[![@durgeshm01722's Holopin board](https://holopin.me/durgeshm01722)](https://holopin.io/@durgeshm01722)
+## 🔥   My Stats :
 
-<p align="center">
-<img src="https://custom-icon-badges.herokuapp.com/github/followers/durgeshm01722?logo=github&style=social">
-<img src="https://custom-icon-badges.herokuapp.com/github/stars/durgeshm01722?logo=star&style=social&logoColor=black">
-<img src="https://komarev.com/ghpvc/?username=durgeshm01722">
-<!-- <img src="https://img.shields.io/github/last-commit/google/skia.svg?style=flat&logo=history&logoColor=white">
-<img src="https://custom-icon-badges.herokuapp.com/github/last-commit/custom-icon-badges/durgesh01722?logo=history&logoColor=white"><br> -->
-</p>
+###
 
-<!-- ![Snake animation](https://github.com/durgeshm01722/durgeshm01722/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshm01722&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  /> <br/>
+  <img src="https://streak-stats.demolab.com?user=durgeshm01722&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/>
 
-## My Hobbies :
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshm01722&theme=tokyonight"> </br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshm01722&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshm01722&theme=tokyonight"> </br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshm01722&theme=tokyonight&utcOffset=8"> </br>
+
+  [![Durgesh Mahajan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16060342&layout=compact&theme=dark)](https://stackoverflow.com/users/16060342/durgesh-mahajan)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=durgeshm01722&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+  [![@durgeshm01722's Holopin board](https://holopin.me/durgeshm01722)](https://holopin.io/@durgeshm01722)
+
+</div>
+
+## 👑 My Hobbies :
 * Photography
 * Sketching
 * Travelling
 <br>
-
-## My Interests :
-* Cyber Security
-* Web Development
-* UI/UX
-<br>
-
-## My Skills :
-<p align="center">
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
   
-</p>
+###
 
-<br>
-<br></br>
+<img src="https://raw.githubusercontent.com/durgeshm01722/output/snake.svg" alt="Snake animation" />
 
-## Connect with me :
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/durgesh-mahajan-99bab0212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/durgeshm01722"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:durgeshmahajan1722@gmail.com"><img src="https://img.shields.io/badge/durgeshmahajan1722%40gmail.com-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/durgeshm01722/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/durgeshmahajan1722/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://dev.to/durgeshm01722"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="https://medium.com/@durgeshmahajan1722"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-</p>
+###
