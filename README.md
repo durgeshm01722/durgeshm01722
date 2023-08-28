@@ -97,6 +97,6 @@ Apart from my Professional Life, I love clicking eye-catching Pics, especially o
   
 ###
 
-<img src="https://raw.githubusercontent.com/durgeshm01722/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/durgeshm01722/durgeshm01722/output/snake.svg" alt="Snake animation" />
 
 ###
