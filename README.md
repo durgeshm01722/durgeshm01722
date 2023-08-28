@@ -19,7 +19,7 @@
   </a>
   <a href="https://medium.com/@durgeshmahajan1722" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
+  </a> </br>
   <a href="https://stackoverflow.com/users/16060342/durgesh-mahajan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
