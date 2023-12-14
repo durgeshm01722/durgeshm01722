@@ -81,7 +81,9 @@ Apart from my Professional Life, I love clicking eye-catching Pics, especially o
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshm01722&theme=tokyonight"> </br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshm01722&theme=tokyonight&utcOffset=8"> </br>
 
-  [![Durgesh Mahajan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16060342&layout=compact&theme=dark)](https://stackoverflow.com/users/16060342/durgesh-mahajan)
+  <!-- [![Durgesh Mahajan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16060342&layout=compact&theme=dark)](https://stackoverflow.com/users/16060342/durgesh-mahajan) -->
+
+  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=16060342&theme=dracula"/>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=durgeshm01722&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
