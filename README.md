@@ -48,12 +48,12 @@
 
 ### 👩‍💻 A brief intro about me...
 
-I am a Full-stack Web and Mobile Developer. I love developing useful, functional and user-friendly applications for web and mobile with attractive and aesthetic user-interfaces. I also love exploring Cyber Security. In my free time, you can find me writing articles and creating tech-related content.
+Hello there! 👋 I'm Durgesh Mahajan, a passionate and skilled full-stack web and mobile developer with a knack for creating elegant and functional applications. I specialize in crafting seamless user experiences through intuitive design and innovative technology. With a deep love for both coding and creativity, I bring ideas to life by building captivating projects.
 
-Apart from my Professional Life, I love clicking eye-catching Pics, especially of Nature. I also love Sketching and Listening to Music.
+Apart from my Professional Life, I love clicking eye-catching Pics, especially of Nature. I also love listening Music.
 <br>
 
-<br>- 🔭 I’m currently a final-year engineering student <br>- 📚 I'm currently learning DSA and Spring (Java) 🍃<br>- ⚡ In my free time I build amazing projects</p>
+<br>- 🔭 A final-year engineering student <br>- 👨‍💻 DevOps Intern at Syngenta <br>- 📚 Learning Problem Solving, DSA and Spring (Java) 🍃<br>- ⚡ In my free time, I learn new skills and technologies</p>
 
 ###
 
