@@ -92,8 +92,5 @@ Apart from my Professional Life, I love clicking eye-catching Pics, especially o
   [![@durgeshm01722's Holopin board](https://holopin.me/durgeshm01722)](https://holopin.io/@durgeshm01722)
 
 </div>
-###
 
 <img src="https://raw.githubusercontent.com/durgeshm01722/durgeshm01722/output/snake.svg" alt="Snake animation" />
-
-###
