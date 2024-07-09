@@ -55,7 +55,7 @@ Hello there! 👋 I'm Durgesh Mahajan, a passionate and skilled full-stack web a
 Apart from my Professional Life, I love clicking eye-catching Pics, especially of Nature. I also love listening Music.
 <br>
 
-<br>- 🔭 A final-year engineering student <br>- 👨‍💻 DevOps Intern at Syngenta <br>- 📚 Learning Problem Solving, DSA and Spring (Java) 🍃<br>- ⚡ In my free time, I learn new skills and technologies</p>
+<br>- 🔭 An IT Engineer <br>- 👨‍💻 DevOps and SRE Engineer I at Syngenta <br>- 📚 Exploring trending technologies and skills 🍃<br>- ⚡ In my free time, I build functional applications </p>
 
 ###
 
