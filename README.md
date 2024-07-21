@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  /> -->
-<!--   <img height="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"  /> -->
-  <img height="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<img height="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"  />
+<!--   <img height="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  /> -->
 </div>
 
 ###
@@ -38,6 +38,9 @@
   <img src="https://komarev.com/ghpvc/?username=durgeshm01722">
 </div>
 
+<br />
+<br />
+
 ###
  
 <div align="center">
@@ -55,17 +58,42 @@ Hello there! 👋 I'm Durgesh Mahajan, a passionate and skilled full-stack web a
 Apart from my Professional Life, I love clicking eye-catching Pics, especially of Nature. I also love listening Music.
 <br>
 
-<br>- 🔭 An IT Engineer <br>- 👨‍💻 DevOps and SRE Engineer I at Syngenta <br>- 📚 Exploring trending technologies and skills 🍃<br>- ⚡ In my free time, I build functional applications </p>
+<br>- 👨‍🎓 An IT Engineer <br>- 👨‍💻 DevOps and SRE Engineer I at Syngenta <br>- 📚 Exploring trending technologies and skills </p>
+
+<br />
+<br />
 
 ###
 
-## 🔧 Language and tools :
+## ⚙🛠 Language and Tools :
 
 ###
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,qt,cpp,mysql,git,figma,react,mui,androidstudio,firebase,nodejs" />
-  <img src="https://skillicons.dev/icons?i=express,mongo,postgresql,tailwind,next,aws,docker,jenkins,linux,postman,flask,spring,vercel" />
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=qt,git,react,mui,nodejs,express,mongo,postgresql,tailwind,next,flask,postman,vercel" />
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
+    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="terraform logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="35" alt="slack logo"  />
+  </p>
 </p>
+
+<br />
+<br />
 
 ###
 
@@ -91,6 +119,6 @@ Apart from my Professional Life, I love clicking eye-catching Pics, especially o
 
   [![@durgeshm01722's Holopin board](https://holopin.me/durgeshm01722)](https://holopin.io/@durgeshm01722)
 
+  <img src="https://raw.githubusercontent.com/durgeshm01722/durgeshm01722/output/snake.svg" alt="Snake animation" />
 </div>
 
-<img src="https://raw.githubusercontent.com/durgeshm01722/durgeshm01722/output/snake.svg" alt="Snake animation" />
