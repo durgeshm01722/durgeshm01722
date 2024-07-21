@@ -53,9 +53,10 @@
 
 ### 👩‍💻 A brief intro about me...
 
-Hello there! 👋 I'm Durgesh Mahajan, a passionate and skilled full-stack web and mobile developer with a knack for creating elegant and functional applications. I specialize in crafting seamless user experiences through intuitive design and innovative technology. With a deep love for both coding and creativity, I bring ideas to life by building captivating projects.
 
-Apart from my Professional Life, I love clicking eye-catching Pics, especially of Nature. I also love listening Music.
+Hello there! 👋 I'm Durgesh Mahajan, a DevOps and SRE Engineer I at Syngenta, and a skilled Full-Stack Web and Mobile Developer with a knack for creating elegant and functional applications. I am passionate about building functional projects that provide excellent user experiences. With a deep love for both coding and creativity, I bring ideas to life by building captivating projects. I am always eager to learn and apply new technologies to solve complex problems.
+
+Apart from my Professional Life, I love clicking eye-catching pics, especially of Nature. I also love listening to Music.
 <br>
 
 <br>- 👨‍🎓 An IT Engineer <br>- 👨‍💻 DevOps and SRE Engineer I at Syngenta <br>- 📚 Exploring trending technologies and skills </p>
