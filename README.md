@@ -120,6 +120,21 @@ Apart from my Professional Life, I love clicking eye-catching pics, especially o
 
   [![@durgeshm01722's Holopin board](https://holopin.me/durgeshm01722)](https://holopin.io/@durgeshm01722)
 
+  
+
+ [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=durgeshm01722)](https://medium.com/@durgeshm01722)
+
+ <div align="center">
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/0" alt="Recent Article 0"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/1" alt="Recent Article 1"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/2" alt="Recent Article 2"> 
+
+ </div>
+
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
   <img src="https://raw.githubusercontent.com/durgeshm01722/durgeshm01722/output/snake.svg" alt="Snake animation" />
 </div>
 
