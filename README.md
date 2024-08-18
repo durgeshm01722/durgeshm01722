@@ -10,23 +10,23 @@
   <a href="https://www.linkedin.com/in/durgesh-mahajan-99bab0212" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://dev.to/durgeshm01722" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://medium.com/@durgeshm01722" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
   <a href="mailto:durgeshmahajan1722@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=durgeshmahajan1722@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/durgeshm01722" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://medium.com/@durgeshm01722" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a> </br>
   <a href="https://stackoverflow.com/users/16060342/durgesh-mahajan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
   <a href="https://slack-xy57644.slack.com/team/U04TJB3N9H8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  </a>
+  <a href="https://dev.to/durgeshm01722" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
 </div>
 
@@ -42,33 +42,37 @@
 <br />
 
 ###
- 
-<div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=50 style="margin-right: 20px"/> Hey there <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width=50 style="margin-left: 20px"/>
-</div>
+### 👩‍💻 A brief intro about me... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
-###
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
-
-### 👩‍💻 A brief intro about me...
-
-
-Hello there! 👋 I'm Durgesh Mahajan, a DevOps and SRE Engineer I at Syngenta, and a skilled Full-Stack Web and Mobile Developer with a knack for creating elegant and functional applications. I am passionate about building functional projects that provide excellent user experiences. With a deep love for both coding and creativity, I bring ideas to life by building captivating projects. I am always eager to learn and apply new technologies to solve complex problems.
+Hello there! 👋 I'm Durgesh Mahajan, a **DevOps and SRE Engineer I** at **Syngenta**, and a skilled **Full-Stack Web and Mobile Developer** with a knack for creating elegant and functional applications. I am passionate about building functional projects that provide excellent user experiences. With a deep love for both coding and creativity, I bring ideas to life by building captivating projects. I am always eager to learn and apply new technologies to solve complex problems.
 
 Apart from my Professional Life, I love clicking eye-catching pics, especially of Nature. I also love listening to Music.
-<br>
+<br />
+<br />
 
-<br>- 👨‍🎓 An IT Engineer <br>- 👨‍💻 DevOps and SRE Engineer I at Syngenta <br>- 📚 Exploring trending technologies and skills </p>
+**- 👨‍🎓 An IT Engineer** \
+**- 👨‍💻 DevOps and SRE Engineer I at Syngenta** \
+**- 🤿 Diving deep into TypeScript and AWS** \
+**- 📚 Exploring trending technologies and skills** \
+**- 📝 Writing articles on [Medium](https://medium.com/@durgeshm01722) in my free time**
 
 <br />
 <br />
+
+<div align="center">
+  ● ● ●
+  <br />
+  <br />
+  <br />
+</div>
 
 ###
 
 ## ⚙🛠 Language and Tools :
 
 ###
+
 <p align="center">
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
@@ -96,45 +100,81 @@ Apart from my Professional Life, I love clicking eye-catching pics, especially o
 <br />
 <br />
 
+<div align="center">
+  ● ● ●
+  <br />
+  <br />
+  <br />
+</div>
+
 ###
 
-## 🔥   My Stats :
+## 🔥 My Stats :
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshm01722&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  /> <br/>
+  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=16060342&theme=dracula"/> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshm01722&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=durgeshm01722&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshm01722&theme=tokyonight&utcOffset=8">
+  </div>
   <img src="https://streak-stats.demolab.com?user=durgeshm01722&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  /> <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshm01722&theme=tokyonight"> </br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshm01722&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshm01722&theme=tokyonight"> </br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshm01722&theme=tokyonight&utcOffset=8"> </br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshm01722&theme=tokyonight"> </br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshm01722&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshm01722&theme=tokyonight"> </br>
 
-  <!-- [![Durgesh Mahajan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16060342&layout=compact&theme=dark)](https://stackoverflow.com/users/16060342/durgesh-mahajan) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=durgeshm01722&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=16060342&theme=dracula"/>
+[![@durgeshm01722's Holopin board](https://holopin.me/durgeshm01722)](https://holopin.io/@durgeshm01722)
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=durgeshm01722&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-  [![@durgeshm01722's Holopin board](https://holopin.me/durgeshm01722)](https://holopin.io/@durgeshm01722)
+<br />
+<br />
 
-  
+<div align="center">
+  ● ● ●
+  <br />
+  <br />
+  <br />
+</div>
 
- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=durgeshm01722)](https://medium.com/@durgeshm01722)
+###
+
+## 📝 My Recent Medium Articles:
+
+###
 
  <div align="center">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/0" alt="Recent Article 0"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/1" alt="Recent Article 1"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/2" alt="Recent Article 2"> 
-
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/0" alt="Recent Article 0"> </a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/1" alt="Recent Article 1"> </a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@durgeshm01722/2" alt="Recent Article 2"></a>
  </div>
 
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br />
+<br />
+<br />
+<br />
 
+<div align="center">
 
+● ● ●
+<br />
+<br />
+<br />
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+  <br />
+  <br />
+
+● ● ●
+
+  <br />
+  <br />
 
   <img src="https://raw.githubusercontent.com/durgeshm01722/durgeshm01722/output/snake.svg" alt="Snake animation" />
 </div>
-
