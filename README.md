@@ -43,7 +43,7 @@
 
 ###
 
-### 👩‍💻 A brief intro about me... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+### 👨‍💻 A brief intro about me... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 Hello there! 👋 I'm Durgesh Mahajan, a **DevOps and SRE Engineer I** at **Syngenta**, and a skilled **Full-Stack Web and Mobile Developer** with a knack for creating elegant and functional applications. I am passionate about building functional projects that provide excellent user experiences. With a deep love for both coding and creativity, I bring ideas to life by building captivating projects. I am always eager to learn and apply new technologies to solve complex problems.
 
