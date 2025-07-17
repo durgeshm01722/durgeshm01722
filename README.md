@@ -94,6 +94,7 @@ Apart from my Professional Life, I love clicking eye-catching pics, especially o
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="terraform logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="35" alt="slack logo"  />
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
   </p>
 </p>
 
