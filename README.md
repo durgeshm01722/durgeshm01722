@@ -45,15 +45,16 @@
 
 ### 👨‍💻 A brief intro about me... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
-Hello there! 👋 I'm Durgesh Mahajan, a **DevOps and SRE Engineer II** at **Syngenta**, and a skilled **Full-Stack Web and Mobile Developer** with a knack for creating elegant and functional applications. I am passionate about building functional projects that provide excellent user experiences. With a deep love for both coding and creativity, I bring ideas to life by building captivating projects. I am always eager to learn and apply new technologies to solve complex problems.
+I am a DevOps and SRE Engineer II at Syngenta with a strong background and experience working with various DevOps tools and technologies like CircleCI, Terraform, Kubernetes, Helm, Datadog (Monitoring and Observability). I also have a strong skillset in AWS and have been 2x certified in it. I have worked with AWS's APIs, Console as well as CLI. I also have a keen interest in working with AI Agents and Coding. I have worked with n8n, an Agentic AI workflow builder no code low code tool. I had also worked with creating a lot of automation scripts using Nodejs to simplify certain tasks for my day to day work.
 
-Apart from my Professional Life, I love clicking eye-catching pics, especially of Nature. I also love listening to Music.
-<br />
+Besides DevOps, I am also a skilled Full-Stack Web and Mobile Developer with a knack for creating elegant and functional applications. With a deep love for both coding and creativity, I bring ideas to life by building captivating projects. I am always eager to learn and apply new technologies to solve complex problems.
+
+Apart from this, I love Travelling 🏝️, Photography 📸 and Music 🎶!
 <br />
 
 **- 👨‍🎓 An IT Engineer** \
-**- 👨‍💻 DevOps and SRE Engineer I at Syngenta** \
-**- 🤿 Diving deep into TypeScript and AWS** \
+**- 👨‍💻 DevOps and SRE Engineer II at Syngenta** \
+**- 🤿 Diving deep into AI, Kubernetes and AWS** \
 **- 📚 Exploring trending technologies and skills** \
 **- 📝 Writing articles on [Medium](https://medium.com/@durgeshm01722) in my free time**
 
